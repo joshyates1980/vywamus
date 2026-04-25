@@ -3,7 +3,7 @@ title: Belief Patterns
 description: An introduction to belief patterns.
 priority: 1.0
 index: monthly
-tags: belief, patterns
+tags: belief, patterns, linkage
 hero: testimonial/testimonial-thumb-bg-3.3s.jpg
 ---
 
