@@ -67,6 +67,7 @@ Non-reception is actually the experience that is created when one chooses to exp
 | Content Cell  | Content Cell  |
 
 
+
 Non-reception appears in the emotional body as the feeling of contraction, pressure, sadness, shame, "unworthiness." 
 
 Non-reception appears in the mental body as self-judgement, self-criticism, un-supportive thoughtforms, doubt, fear, blame, victimization, etc. 
