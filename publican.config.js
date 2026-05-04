@@ -78,8 +78,6 @@ publican.config.replace = new Map([
   [ ' style="text-align:end"', ' class="right"' ],
   [ ' style="text-align:right"', ' class="right"' ],
   [ ' style="text-align:center"', ' class="center"' ],
-  [ /[^<div class="table-responsive">]<table>/gm, '<div class="table-responsive"><table class="table">' ],
-  [ /<\/table>[^</div>]/gm, '</table></div>' ],
   [ /<p>(<img.+?>)<\/p>/gim, '$1' ],                                          // <p> around <img>
   [ /<p>(<svg.+?<\/svg>)<\/p>/gim, '$1' ],                                    // <p> around <svg>
   [ /<img(\b(?![^>]*\balt\s*=)[^>]*)>/gism, '<img$1 alt="illustration">' ],   // <img> alt
