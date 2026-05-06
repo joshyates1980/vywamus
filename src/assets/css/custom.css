@@ -11,7 +11,7 @@ static-search {
 
 main {
 
-  h2, h3, p {
+  h2, h3 {
     margin-block-start: 1em;
   }
 

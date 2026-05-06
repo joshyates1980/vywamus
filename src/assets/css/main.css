@@ -6237,7 +6237,7 @@ span.proggressbar-parcebtage {
   display: inline-block;
 }
 .vl-blg-icon-box .single-blog-box1 .para {
-  padding-top: 10px;
+  padding-top: 1px;
   color: var(--ztc-text-text-2);
   transition: 0.3s;
   font-size: var(--ztc-font-size-font-s18);
