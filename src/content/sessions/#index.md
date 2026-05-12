@@ -1,5 +1,5 @@
 ---
-title: The Vywamus Foundation
+title: Sessions
 menu: Sessions
 description: Sessions available with The Vywamus Foundation.
 priority: 1.0
