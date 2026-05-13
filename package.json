@@ -34,6 +34,6 @@
     "staticsearch": "0.7.0"
   },
   "devDependencies": {
-    "livelocalhost": "1.2.5"
+    "livelocalhost": "1.2.6"
   }
 }
