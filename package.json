@@ -35,5 +35,8 @@
   },
   "devDependencies": {
     "livelocalhost": "1.2.6"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
