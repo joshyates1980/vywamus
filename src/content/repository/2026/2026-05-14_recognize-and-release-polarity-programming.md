@@ -4,7 +4,7 @@ description: Recognize and Release Polarity Programming
 priority: 1.0
 index: monthly
 tags: self reception, polarity programming, duality, denial
-hero: cta/vl-cta-1.1c.png
+hero: cta/vl-cta-1.1d.png
 ---
 
 <div class="event-content-area">

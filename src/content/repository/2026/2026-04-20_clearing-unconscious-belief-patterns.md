@@ -4,7 +4,7 @@ description: How Clearing Unconscious Belief Patterns Can Support Your Intention
 priority: 1.0
 index: monthly
 tags: unconscious belief patterns, clearing, choice-energy
-hero: cta/vl-cta-1.1c.png
+hero: cta/vl-cta-1.1g.png
 ---
 
 <div class="event-content-area">

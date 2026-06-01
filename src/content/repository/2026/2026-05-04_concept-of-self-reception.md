@@ -4,7 +4,7 @@ description: An Introduction to the Concept of Self Reception.
 priority: 1.0
 index: monthly
 tags: self reception, emotions, karma
-hero: cta/vl-cta-1.1c.png
+hero: cta/vl-cta-1.1e.png
 ---
 
 <div class="event-content-area">

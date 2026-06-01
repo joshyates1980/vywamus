@@ -4,7 +4,7 @@ description: An Overview of Karma.
 priority: 1.0
 index: monthly
 tags: karma, self-transformation, transformational toolbox
-hero: cta/vl-cta-1.1b.jpg
+hero: cta/vl-cta-1.1f.png
 ---
 
 <div class="event-content-area">

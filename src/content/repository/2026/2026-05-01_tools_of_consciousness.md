@@ -4,7 +4,7 @@ description: An introduction to the work and teachings of Vywamus.
 priority: 1.0
 index: monthly
 tags: denial, transformational toolbox, creatorship
-hero: cta/vl-cta-1.1b.jpg
+hero: cta/vl-cta-1.1h.png
 ---
 
 
